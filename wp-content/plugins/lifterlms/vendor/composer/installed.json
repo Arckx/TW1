@@ -136,6 +136,7 @@
         "support": {
             "source": "https://github.com/Prospress/action-scheduler/tree/master",
             "issues": "https://github.com/Prospress/action-scheduler/issues"
-        }
+        },
+        "abandoned": "woocommerce/action-scheduler"
     }
 ]
